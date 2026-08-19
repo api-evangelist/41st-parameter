@@ -35,7 +35,7 @@ x-status: acquired
 x-acquired-by: experian
 x-acquired-date: '2013-10-01'
 x-founded: '2004'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-17'
 tags:
